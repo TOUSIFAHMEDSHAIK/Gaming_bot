@@ -1,2 +1,2 @@
 # Gaming_bot
-Exploring new techniques
+Exploring the new techhniques & technologies
